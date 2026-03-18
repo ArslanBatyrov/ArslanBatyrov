@@ -5,7 +5,7 @@ I am an economics student at the University of Manchester, interested in researc
 ## Current work
 - Working on Google Summer of Code 2026 preparation
 - Doing econometrics using R
-- Exploring research, computation, and applied problem-solving
+- Exploring economic research, applied decentralisation, and applied problem-solving via start-ups.
 
 ## Selected achievements
 - Built a profitable crypto farm working with hardware myself in 2020 in a country with restrictions on GPUs/CPUs
