@@ -3,7 +3,7 @@ I was curious about economics and the world around me, so I spent last 4 years o
 I am an economics student at the University of Manchester, interested in research, R, Rust, and building useful things at the intersection of economics and technology.
 
 ## Current work
-- Make my first steps in Open-source, working on Google Summer of Code 2026 preparation
+- Make my first steps in Open-source, working on Google Summer of Code 2026 ( R )
 - Doing econometrics using R, Python
 - Exploring economic research, applied decentralisation, and applied problem-solving via start-ups.
 - Use Rust to optimise different algos for fun
