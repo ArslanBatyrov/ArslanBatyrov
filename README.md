@@ -14,7 +14,7 @@ I am an economics student at the University of Manchester, interested in researc
 - Won the ETH Oxford Flare track prize at a hackathon
 - Published *Problem-Driven Growth Theory*
 - Working on a macroeconomic research related to minimum wage and youth unemployment in the UK and France
-- Launched an HR AI start-up Talant that got selected into one of the most competitive uncubators in London (KickStart Programme) (with my best friend)
+- Launched an HR AI start-up Talant that got selected into one of the most competitive incubators in London (KickStart Programme) (with my best friend)
 
 ## Interests
 - Startups and real-world problem solving
