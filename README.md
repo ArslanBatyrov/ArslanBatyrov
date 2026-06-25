@@ -9,6 +9,7 @@ I am an economics student at the University of Manchester, interested in researc
 - Use Rust to optimise different algos for fun
 
 ## Selected achievements
+- Working on Google Summer of Code (R Project for Statistical Programming, contributing to the changepoint package)
 - Built a profitable crypto farm working with hardware myself in 2020 in a country with restrictions on GPUs/CPUs
 - Got selected as one of 50 globally into a Solana Foundation camp where I studied Rust and its applications to Solana Development
 - Won the ETH Oxford Flare track prize at a hackathon
